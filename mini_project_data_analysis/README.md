@@ -96,7 +96,7 @@ The goal of this milestone is to answer the questions you have set for yourself.
 ## Grading
 
 <p align="justify">
-We're going to evaluate your progress during the week of 16/18 April and 30 April/2 May. We'll ask you to walk us through your Jupyter notebook (`README.md` not needed at this stage). 
+We're going to evaluate your progress during the weeks of 23/25 April and 7/9 May. We'll ask you to walk us through your Jupyter notebook (`README.md` not needed at this stage). 
 
 The deadline for submission of notebook and `README.md` on LMS portal is 10 May. 
 </p>
