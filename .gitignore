@@ -1,2 +1,4 @@
 *.sql~
 *.un~
+character.metadata.tsv
+plot_summaries.txt
